@@ -1,5 +1,5 @@
 ﻿
-namespace DemoGoogleTrends
+namespace GoogleTrends
 {
     partial class DemoGoogleTrends
     {
